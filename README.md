@@ -1,2 +1,2 @@
 # The-Sparks-Foundation
-Internship Project
+Machine Learning Internship Project
