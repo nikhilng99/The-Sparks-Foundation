@@ -13,3 +13,7 @@ Task 4:
 For the given ‘Iris’ dataset, create the Decision Tree classifier and
 visualize it graphically. The purpose is if we feed any new data to this
 classifier, it would be able to predict the right class accordingly.
+
+
+Task 5: Perform ‘Exploratory Data Analysis’ on the provided dataset
+‘SampleSuperstore’
